@@ -1,4 +1,23 @@
 body {
-    background-color: bisque;
+    background-color: rgb(223, 196, 164);
+    color:#ffffff;
 
+}
+
+.nerino{
+    color: rgb(75, 73, 73);
+}
+
+.nero{
+    color:black
+}
+
+nav{
+    color: black;
+}
+footer{
+    color: black;
+}
+th{
+    color: black;
 }
